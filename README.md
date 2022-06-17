@@ -1,2 +1,2 @@
-# dot-files
-A compilation of my dot files
+# dotfiles
+A compilation of my dotfiles
