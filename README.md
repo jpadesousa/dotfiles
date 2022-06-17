@@ -1,6 +1,6 @@
 # My dotfiles
-Here is a compilation of the dotfiles that I use in the different machines.
 <img src="https://openclipart.org/image/800px/305854" width="200" />
+Here is a compilation of the dotfiles that I use in the different machines.
 
 | Program | dotfiles                                                                        |
 |:--------|:--------------------------------------------------------------------------------|
