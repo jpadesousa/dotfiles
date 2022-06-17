@@ -1,7 +1,8 @@
 # My dotfiles
+Here is a compilation of the dotfiles that I use in the different machines.
 <img src="https://openclipart.org/image/800px/305854" width="200" />
 
-| Program | dotfiles |
+| Program | dotfiles                                                                        |
 |:--------|:--------------------------------------------------------------------------------|
 | zsh     | [.zshrc](https://github.com/jpadesousa/dotfiles/blob/main/files/.zshrc)         |
 | conda   | [.condarc](https://github.com/jpadesousa/dotfiles/blob/main/files/.condarc)     |
