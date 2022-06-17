@@ -23,7 +23,6 @@ alias nme_vm_rstudio='ssh -f -N -L 8888:localhost:8787 josousa@g-wst-nme-seq.eth
 alias nme_vm2_rstudio='ssh -f -N -L 8889:localhost:8787 josousa@g-wst-nme-seq2.ethz.ch & open -a "Brave Browser" http://localhost:8889/'
 alias r="radian"
 
-
 # Safety
 alias rm="rm -i"
 alias mv='mv -i'
